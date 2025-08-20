@@ -51,18 +51,23 @@ export ADMIN_TOKEN=관리자토큰
 ## 스크린샷
 
 **글 작성 (POST → PENDING)**
+
 ![방명록 API 테스트](./screenshots/curl01.png)
 
 **글 승인 (PATCH → 관리자인증)**
+
 ![방명록 API 테스트](./screenshots/curl02.png)
 
 **글 목록 조회 (GET → APPROVED 글만)**
+
 ![방명록 API 테스트](./screenshots/curl03.png)
 
 **글 삭제 조회 (DELETE → 관리자인증)**
+
 ![방명록 API 테스트](./screenshots/curl04.png)
 
 **콘솔 로그**
+
 ![콘솔 로그](./screenshots/log.png)
 
 
